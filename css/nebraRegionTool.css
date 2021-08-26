@@ -32,10 +32,21 @@ body{
 }
 
 .protected-line{
-    width: 100%;
-    display: flex;
+    position: relative;
+    width: auto;
     justify-content: center;
+    display: flex;
 }
+.outer-help-div{
+    width: 100%;
+    position: relative;
+}
+
+.results{
+    position: relative;
+    width: auto;
+}
+
 .select-help{
     padding-right: 0.5vw;
     position: relative;
@@ -69,4 +80,25 @@ select{
     font-family: Trebuchet MS, sans-serif;
     font-weight: 900;
     font-size: 1vw;
+}
+
+.footer-container{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 6.5vw;
+    background-color: #0f82ce60;
+}
+
+.footer-text-collective{
+    position: relative;
+}
+
+.footer-text-collective h5{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 0.75vw;
 }

@@ -41,11 +41,12 @@
 
     <hr />
 
-    <div class="site-functionality">
+  <div class="site-functionality">
       <!--
-  The following 200+ lines of code (in the <select> tags) are just
-  hard-coded values for the country select dropdown
--->
+      The following 200+ lines of code (in the <select> tags) are just
+      hard-coded values for the country select dropdown
+      -->
+    <div class="outer-help-div">
       <div class="protected-line">
         <div class="select-help">
           <select id="countryList" class="custom-select">
@@ -329,23 +330,27 @@
 
         <button class="submit-button" type="submit" onclick="hereWeGo();">Find Product</button>
       </div>
-      <div className="results">
-        <span id="finalValue"></span>
-      </div>
     </div>
+
+
+    <div className="results">
+      <span id="finalValue"></span>
+    </div>
+  </div>
+
   </main><!-- /.container -->
 
 </body>
 
 <footer>
   <hr />
-  <div class="row text-center">
-    <div class="col">
-      <h6>This website uses data from the <a
+  <div class="footer-container">
+    <div class="footer-text-collective">
+      <h5>This website uses data from the <a
           href="https://github.com/helium/miner/blob/master/priv/countries_reg_domains.csv">Helium Miner</a> and makes
         it simple to search. While every attempt has been made to ensure this data is correct, please refer to your
-        local regulations to confirm.</h6>
-      <h6>A project by <a href="https://twitter.com/nebraltd">@NebraLtd</a>, &copy; NebraLtd. 2021</h6>
+        local regulations to confirm.</h5>
+      <h5>A project by Samuel Liecty on behalf of <a href="https://twitter.com/nebraltd">@NebraLtd</a>, &copy; NebraLtd. 2021</h5>
       <br />
     </div>
   </div>
