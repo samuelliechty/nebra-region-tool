@@ -1,3 +1,4 @@
+/*
 const fs = require('fs');
 const csv = require('csvtojson');
 
@@ -23,3 +24,4 @@ function hereWeGo() {
         console.log(fq);
     })();
 };
+*/
