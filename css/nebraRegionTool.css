@@ -50,7 +50,10 @@ body{
 
 .results{
     position: relative;
-    width: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .select-help{
@@ -92,9 +95,13 @@ select{
 
 .outer-results{
     margin-top: 2vw;
-    width: 50%;
+    width: 70%;
     height: 20vw;
     border: black solid 0.2vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-container{
@@ -123,4 +130,11 @@ select{
 
 .results span{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2vw;
+    font-weight: 630;
+    color: rgb(0, 65, 129);
+}
+
+.b-side{
+    padding-bottom: 3vw;
 }
