@@ -10,9 +10,13 @@ function hereWeGo(){
             break;
         }
     }
-    console.log(fq);
-    document.getElementById("finalString").innerHTML = "The region for " + countryName + " is " + fq;
-    document.getElementById("finalValue").innerHTML = "The proper frequency for your selected region is " + fq.slice(2,5);
+    if(!fq || fq.length === 0){
+        document.getElementById("finalString").innerHTML = countryName + " is not supported"
+    }
+    else{
+        document.getElementById("finalString").innerHTML = "The region for " + countryName + " is " + fq;
+        document.getElementById("finalValue").innerHTML = "The proper frequency for your selected region is " + fq.slice(2,5);
+    }
 }
 
 window.hereWeGo = hereWeGo;
