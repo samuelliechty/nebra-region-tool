@@ -7,10 +7,5 @@
     "keywords": [],
     "author": "Samuel Liechty",
     "license": "",
-    "type": "module",
-    "dependencies": {
-        "csvtojson": "^2.0.10",
-        "request": "2.88.2",
-        "require": "^2.4.20"
-    }
+    "type": "module"
 }
