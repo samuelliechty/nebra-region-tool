@@ -1,0 +1,17 @@
+{
+    "name": "nebra-region-tool",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+
+    "scripts":{
+    
+    },
+    "keywords": [],
+    "author": "Samuel Liechty",
+    "license": "",
+    "dependencies": {
+        "csvtojson": "^2.0.10",
+        "request": "2.88.2"
+    }
+}

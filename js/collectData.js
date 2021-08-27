@@ -1,5 +1,4 @@
-const fs = require('fs');
-const csv = require('csvtojson');
+const csv = require('csvtojson')
 
 console.log("hello world");
 var allData;
