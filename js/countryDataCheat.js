@@ -6,7 +6,8 @@ const allData = [
       "long": 67.709953,
       "countryName": "Afghanistan",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "AL",
@@ -14,7 +15,8 @@ const allData = [
       "long": 20.168331,
       "countryName": "Albania",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "DZ",
@@ -22,7 +24,8 @@ const allData = [
       "long": 1.659626,
       "countryName": "Algeria",
       "frequency": "AS923_3",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "AS",
@@ -30,7 +33,8 @@ const allData = [
       "long": -170.132217,
       "countryName": "American Samoa",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "AD",
@@ -38,7 +42,8 @@ const allData = [
       "long": 1.601554,
       "countryName": "Andorra",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "AO",
@@ -46,7 +51,8 @@ const allData = [
       "long": 17.873887,
       "countryName": "Angola",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "AI",
@@ -54,7 +60,8 @@ const allData = [
       "long": -63.068615,
       "countryName": "Anguilla",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "AQ",
@@ -62,7 +69,8 @@ const allData = [
       "long": -0.071389,
       "countryName": "Antarctica",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "AG",
@@ -70,7 +78,8 @@ const allData = [
       "long": -61.796428,
       "countryName": "Antigua and Barbuda",
       "frequency": "",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 0
     },
     {
       "countryCode": "AR",
@@ -78,7 +87,8 @@ const allData = [
       "long": -63.616672,
       "countryName": "Argentina",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "AM",
@@ -86,7 +96,8 @@ const allData = [
       "long": 45.038189,
       "countryName": "Armenia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "AW",
@@ -94,7 +105,8 @@ const allData = [
       "long": -69.968338,
       "countryName": "Aruba",
       "frequency": "",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 0
     },
     {
       "countryCode": "AU",
@@ -102,7 +114,8 @@ const allData = [
       "long": 133.775136,
       "countryName": "Australia",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "AT",
@@ -110,7 +123,8 @@ const allData = [
       "long": 14.550072,
       "countryName": "Austria",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "AZ",
@@ -118,7 +132,8 @@ const allData = [
       "long": 47.576927,
       "countryName": "Azerbaijan",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "BS",
@@ -126,7 +141,8 @@ const allData = [
       "long": -77.39628,
       "countryName": "Bahamas",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "BH",
@@ -134,7 +150,8 @@ const allData = [
       "long": 50.637772,
       "countryName": "Bahrain",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BD",
@@ -142,7 +159,8 @@ const allData = [
       "long": 90.356331,
       "countryName": "Bangladesh",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "BB",
@@ -150,7 +168,8 @@ const allData = [
       "long": -59.543198,
       "countryName": "Barbados",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "BY",
@@ -158,7 +177,8 @@ const allData = [
       "long": 27.953389,
       "countryName": "Belarus",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BE",
@@ -166,7 +186,8 @@ const allData = [
       "long": 4.469936,
       "countryName": "Belgium",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BZ",
@@ -174,7 +195,8 @@ const allData = [
       "long": -88.49765,
       "countryName": "Belize",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "BJ",
@@ -182,7 +204,8 @@ const allData = [
       "long": 2.315834,
       "countryName": "Benin",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BM",
@@ -190,7 +213,8 @@ const allData = [
       "long": -64.75737,
       "countryName": "Bermuda",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "BT",
@@ -198,7 +222,8 @@ const allData = [
       "long": 90.433601,
       "countryName": "Bhutan",
       "frequency": "EU868",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "BO",
@@ -206,7 +231,8 @@ const allData = [
       "long": -63.588653,
       "countryName": "Bolivia",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "BA",
@@ -214,7 +240,8 @@ const allData = [
       "long": 17.679076,
       "countryName": "Bosnia and Herzegovina",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BW",
@@ -222,7 +249,8 @@ const allData = [
       "long": 24.684866,
       "countryName": "Botswana",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BV",
@@ -230,7 +258,8 @@ const allData = [
       "long": 3.413194,
       "countryName": "Bouvet Island",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BR",
@@ -238,7 +267,8 @@ const allData = [
       "long": -51.92528,
       "countryName": "Brazil",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "IO",
@@ -246,7 +276,8 @@ const allData = [
       "long": 71.876519,
       "countryName": "British Indian Ocean Territory",
       "frequency": "",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 0
     },
     {
       "countryCode": "VG",
@@ -254,7 +285,8 @@ const allData = [
       "long": -64.639968,
       "countryName": "British Virgin Islands",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "BN",
@@ -262,7 +294,8 @@ const allData = [
       "long": 114.727669,
       "countryName": "Brunei",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "BG",
@@ -270,7 +303,8 @@ const allData = [
       "long": 25.48583,
       "countryName": "Bulgaria",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "BF",
@@ -278,7 +312,8 @@ const allData = [
       "long": -1.561593,
       "countryName": "Burkina Faso",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "BI",
@@ -286,7 +321,8 @@ const allData = [
       "long": 29.918886,
       "countryName": "Burundi",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "KH",
@@ -294,7 +330,8 @@ const allData = [
       "long": 104.990963,
       "countryName": "Cambodia",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "CM",
@@ -302,7 +339,8 @@ const allData = [
       "long": 12.354722,
       "countryName": "Cameroon",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "CA",
@@ -310,7 +348,8 @@ const allData = [
       "long": -106.346771,
       "countryName": "Canada",
       "frequency": "US915",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "CV",
@@ -318,7 +357,8 @@ const allData = [
       "long": -24.013197,
       "countryName": "Cape Verde",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "KY",
@@ -326,7 +366,8 @@ const allData = [
       "long": -80.566956,
       "countryName": "Cayman Islands",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "CF",
@@ -334,7 +375,8 @@ const allData = [
       "long": 20.939444,
       "countryName": "Central African Republic",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "TD",
@@ -342,7 +384,8 @@ const allData = [
       "long": 18.732207,
       "countryName": "Chad",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "CL",
@@ -350,7 +393,8 @@ const allData = [
       "long": -71.542969,
       "countryName": "Chile",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "CN",
@@ -358,7 +402,8 @@ const allData = [
       "long": 104.195397,
       "countryName": "China",
       "frequency": "CN470",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "CX",
@@ -366,7 +411,8 @@ const allData = [
       "long": 105.690449,
       "countryName": "Christmas Island",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "CC",
@@ -374,7 +420,8 @@ const allData = [
       "long": 96.870956,
       "countryName": "Cocos [Keeling] Islands",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "CO",
@@ -382,7 +429,8 @@ const allData = [
       "long": -74.297333,
       "countryName": "Colombia",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "KM",
@@ -390,7 +438,8 @@ const allData = [
       "long": 43.872219,
       "countryName": "Comoros",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "CD",
@@ -398,7 +447,8 @@ const allData = [
       "long": 21.758664,
       "countryName": "Congo [DRC]",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "CG",
@@ -406,7 +456,8 @@ const allData = [
       "long": 15.827659,
       "countryName": "Congo [Republic]",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "CK",
@@ -414,7 +465,8 @@ const allData = [
       "long": -159.777671,
       "countryName": "Cook Islands",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "CR",
@@ -422,7 +474,8 @@ const allData = [
       "long": -83.753428,
       "countryName": "Costa Rica",
       "frequency": "AS923_1",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "CI",
@@ -430,7 +483,8 @@ const allData = [
       "long": -5.54708,
       "countryName": "Côte d'Ivoire",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "HR",
@@ -438,7 +492,8 @@ const allData = [
       "long": 15.2,
       "countryName": "Croatia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "CU",
@@ -446,7 +501,8 @@ const allData = [
       "long": -77.781167,
       "countryName": "Cuba",
       "frequency": "AS923_3",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "CY",
@@ -454,7 +510,8 @@ const allData = [
       "long": 33.429859,
       "countryName": "Cyprus",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "CZ",
@@ -462,7 +519,8 @@ const allData = [
       "long": 15.472962,
       "countryName": "Czech Republic",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "DK",
@@ -470,7 +528,8 @@ const allData = [
       "long": 9.501785,
       "countryName": "Denmark",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "DJ",
@@ -478,7 +537,8 @@ const allData = [
       "long": 42.590275,
       "countryName": "Djibouti",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "DM",
@@ -486,7 +546,8 @@ const allData = [
       "long": -61.370976,
       "countryName": "Dominica",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "DO",
@@ -494,7 +555,8 @@ const allData = [
       "long": -70.162651,
       "countryName": "Dominican Republic",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "EC",
@@ -502,7 +564,8 @@ const allData = [
       "long": -78.183406,
       "countryName": "Ecuador",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "EG",
@@ -510,7 +573,8 @@ const allData = [
       "long": 30.802498,
       "countryName": "Egypt",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SV",
@@ -518,7 +582,8 @@ const allData = [
       "long": -88.89653,
       "countryName": "El Salvador",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "GQ",
@@ -526,7 +591,8 @@ const allData = [
       "long": 10.267895,
       "countryName": "Equatorial Guinea",
       "frequency": "EU868",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "ER",
@@ -534,7 +600,8 @@ const allData = [
       "long": 39.782334,
       "countryName": "Eritrea",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "EE",
@@ -542,7 +609,8 @@ const allData = [
       "long": 25.013607,
       "countryName": "Estonia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SZ",
@@ -550,7 +618,8 @@ const allData = [
       "long": 31.465866,
       "countryName": "Eswatini [Swaziland]",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "ET",
@@ -558,7 +627,8 @@ const allData = [
       "long": 40.489673,
       "countryName": "Ethiopia",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "FK",
@@ -566,7 +636,8 @@ const allData = [
       "long": -59.523613,
       "countryName": "Falkland Islands [Islas Malvinas]",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "FO",
@@ -574,7 +645,8 @@ const allData = [
       "long": -6.911806,
       "countryName": "Faroe Islands",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "FJ",
@@ -582,7 +654,8 @@ const allData = [
       "long": 179.414413,
       "countryName": "Fiji",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "FI",
@@ -590,7 +663,8 @@ const allData = [
       "long": 25.748151,
       "countryName": "Finland",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "FR",
@@ -598,7 +672,8 @@ const allData = [
       "long": 2.213749,
       "countryName": "France",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GF",
@@ -606,7 +681,8 @@ const allData = [
       "long": -53.125782,
       "countryName": "French Guiana",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "PF",
@@ -614,7 +690,8 @@ const allData = [
       "long": -149.406843,
       "countryName": "French Polynesia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "TF",
@@ -622,7 +699,8 @@ const allData = [
       "long": 69.348557,
       "countryName": "French Southern Territories",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GA",
@@ -630,7 +708,8 @@ const allData = [
       "long": 11.609444,
       "countryName": "Gabon",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "GM",
@@ -638,7 +717,8 @@ const allData = [
       "long": -15.310139,
       "countryName": "Gambia",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "GZ",
@@ -646,7 +726,8 @@ const allData = [
       "long": 34.308825,
       "countryName": "Gaza Strip",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "GE",
@@ -654,7 +735,8 @@ const allData = [
       "long": 43.356892,
       "countryName": "Georgia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "DE",
@@ -662,7 +744,8 @@ const allData = [
       "long": 10.451526,
       "countryName": "Germany",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GH",
@@ -670,7 +753,8 @@ const allData = [
       "long": -1.023194,
       "countryName": "Ghana",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "GI",
@@ -678,7 +762,8 @@ const allData = [
       "long": -5.345374,
       "countryName": "Gibraltar",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GR",
@@ -686,7 +771,8 @@ const allData = [
       "long": 21.824312,
       "countryName": "Greece",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GL",
@@ -694,7 +780,8 @@ const allData = [
       "long": -42.604303,
       "countryName": "Greenland",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "GD",
@@ -702,7 +789,8 @@ const allData = [
       "long": -61.604171,
       "countryName": "Grenada",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "GP",
@@ -710,7 +798,8 @@ const allData = [
       "long": -62.067641,
       "countryName": "Guadeloupe",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "GU",
@@ -718,7 +807,8 @@ const allData = [
       "long": 144.793731,
       "countryName": "Guam",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "GT",
@@ -726,7 +816,8 @@ const allData = [
       "long": -90.230759,
       "countryName": "Guatemala",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "GG",
@@ -734,7 +825,8 @@ const allData = [
       "long": -2.585278,
       "countryName": "Guernsey",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GN",
@@ -742,7 +834,8 @@ const allData = [
       "long": -9.696645,
       "countryName": "Guinea",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "GW",
@@ -750,7 +843,8 @@ const allData = [
       "long": -15.180413,
       "countryName": "Guinea-Bissau",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "GY",
@@ -758,7 +852,8 @@ const allData = [
       "long": -58.93018,
       "countryName": "Guyana",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "HT",
@@ -766,7 +861,8 @@ const allData = [
       "long": -72.285215,
       "countryName": "Haiti",
       "frequency": "",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 0
     },
     {
       "countryCode": "HM",
@@ -774,7 +870,8 @@ const allData = [
       "long": 73.504158,
       "countryName": "Heard Island and McDonald Islands",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "HN",
@@ -782,7 +879,8 @@ const allData = [
       "long": -86.241905,
       "countryName": "Honduras",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "HK",
@@ -790,7 +888,8 @@ const allData = [
       "long": 114.109497,
       "countryName": "Hong Kong",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "HU",
@@ -798,7 +897,8 @@ const allData = [
       "long": 19.503304,
       "countryName": "Hungary",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "IS",
@@ -806,7 +906,8 @@ const allData = [
       "long": -19.020835,
       "countryName": "Iceland",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "IN",
@@ -814,7 +915,8 @@ const allData = [
       "long": 78.96288,
       "countryName": "India",
       "frequency": "IN865",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "ID",
@@ -822,7 +924,8 @@ const allData = [
       "long": 113.921327,
       "countryName": "Indonesia",
       "frequency": "AS923_2",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "IR",
@@ -830,7 +933,8 @@ const allData = [
       "long": 53.688046,
       "countryName": "Iran",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "IQ",
@@ -838,7 +942,8 @@ const allData = [
       "long": 43.679291,
       "countryName": "Iraq",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "IE",
@@ -846,7 +951,8 @@ const allData = [
       "long": -8.24389,
       "countryName": "Ireland",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "IM",
@@ -854,7 +960,8 @@ const allData = [
       "long": -4.548056,
       "countryName": "Isle of Man",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "IL",
@@ -862,7 +969,8 @@ const allData = [
       "long": 34.851612,
       "countryName": "Israel",
       "frequency": "AS923_4",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "IT",
@@ -870,7 +978,8 @@ const allData = [
       "long": 12.56738,
       "countryName": "Italy",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "JM",
@@ -878,7 +987,8 @@ const allData = [
       "long": -77.297508,
       "countryName": "Jamaica",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "JP",
@@ -886,7 +996,8 @@ const allData = [
       "long": 138.252924,
       "countryName": "Japan",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "JE",
@@ -894,7 +1005,8 @@ const allData = [
       "long": -2.13125,
       "countryName": "Jersey",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "JO",
@@ -902,7 +1014,8 @@ const allData = [
       "long": 36.238414,
       "countryName": "Jordan",
       "frequency": "IN865",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "KZ",
@@ -910,7 +1023,8 @@ const allData = [
       "long": 66.923684,
       "countryName": "Kazakhstan",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "KE",
@@ -918,7 +1032,8 @@ const allData = [
       "long": 37.906193,
       "countryName": "Kenya",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "KI",
@@ -926,7 +1041,8 @@ const allData = [
       "long": -168.734039,
       "countryName": "Kiribati",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "XK",
@@ -934,7 +1050,8 @@ const allData = [
       "long": 20.902977,
       "countryName": "Kosovo",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "KW",
@@ -942,7 +1059,8 @@ const allData = [
       "long": 47.481766,
       "countryName": "Kuwait",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "KG",
@@ -950,7 +1068,8 @@ const allData = [
       "long": 74.766098,
       "countryName": "Kyrgyzstan",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "LA",
@@ -958,7 +1077,8 @@ const allData = [
       "long": 102.495496,
       "countryName": "Laos",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "LV",
@@ -966,7 +1086,8 @@ const allData = [
       "long": 24.603189,
       "countryName": "Latvia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "LB",
@@ -974,7 +1095,8 @@ const allData = [
       "long": 35.862285,
       "countryName": "Lebanon",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "LS",
@@ -982,7 +1104,8 @@ const allData = [
       "long": 28.233608,
       "countryName": "Lesotho",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "LR",
@@ -990,7 +1113,8 @@ const allData = [
       "long": -9.429499,
       "countryName": "Liberia",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "LY",
@@ -998,7 +1122,8 @@ const allData = [
       "long": 17.228331,
       "countryName": "Libya",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "LI",
@@ -1006,7 +1131,8 @@ const allData = [
       "long": 9.555373,
       "countryName": "Liechtenstein",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "LT",
@@ -1014,7 +1140,8 @@ const allData = [
       "long": 23.881275,
       "countryName": "Lithuania",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "LU",
@@ -1022,7 +1149,8 @@ const allData = [
       "long": 6.129583,
       "countryName": "Luxembourg",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MO",
@@ -1030,7 +1158,8 @@ const allData = [
       "long": 113.543873,
       "countryName": "Macau",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "MK",
@@ -1038,7 +1167,8 @@ const allData = [
       "long": 21.745275,
       "countryName": "North Macedonia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MG",
@@ -1046,7 +1176,8 @@ const allData = [
       "long": 46.869107,
       "countryName": "Madagascar",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MW",
@@ -1054,7 +1185,8 @@ const allData = [
       "long": 34.301525,
       "countryName": "Malawi",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "MY",
@@ -1062,7 +1194,8 @@ const allData = [
       "long": 101.975766,
       "countryName": "Malaysia",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "MV",
@@ -1070,7 +1203,8 @@ const allData = [
       "long": 73.22068,
       "countryName": "Maldives",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "ML",
@@ -1078,7 +1212,8 @@ const allData = [
       "long": -3.996166,
       "countryName": "Mali",
       "frequency": "EU433",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "MT",
@@ -1086,7 +1221,8 @@ const allData = [
       "long": 14.375416,
       "countryName": "Malta",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MH",
@@ -1094,7 +1230,8 @@ const allData = [
       "long": 171.184478,
       "countryName": "Marshall Islands",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "MQ",
@@ -1102,7 +1239,8 @@ const allData = [
       "long": -61.024174,
       "countryName": "Martinique",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "MR",
@@ -1110,7 +1248,8 @@ const allData = [
       "long": -10.940835,
       "countryName": "Mauritania",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MU",
@@ -1118,7 +1257,8 @@ const allData = [
       "long": 57.552152,
       "countryName": "Mauritius",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "YT",
@@ -1126,7 +1266,8 @@ const allData = [
       "long": 45.166244,
       "countryName": "Mayotte",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MX",
@@ -1134,7 +1275,8 @@ const allData = [
       "long": -102.552784,
       "countryName": "Mexico",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 0
     },
     {
       "countryCode": "FM",
@@ -1142,7 +1284,8 @@ const allData = [
       "long": 150.550812,
       "countryName": "Micronesia",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "MD",
@@ -1150,7 +1293,8 @@ const allData = [
       "long": 28.369885,
       "countryName": "Moldova",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MC",
@@ -1158,7 +1302,8 @@ const allData = [
       "long": 7.412841,
       "countryName": "Monaco",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MN",
@@ -1166,7 +1311,8 @@ const allData = [
       "long": 103.846656,
       "countryName": "Mongolia",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "ME",
@@ -1174,7 +1320,8 @@ const allData = [
       "long": 19.37439,
       "countryName": "Montenegro",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MS",
@@ -1182,7 +1329,8 @@ const allData = [
       "long": -62.187366,
       "countryName": "Montserrat",
       "frequency": "AU915",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "MA",
@@ -1190,7 +1338,8 @@ const allData = [
       "long": -7.09262,
       "countryName": "Morocco",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "MZ",
@@ -1198,7 +1347,8 @@ const allData = [
       "long": 35.529562,
       "countryName": "Mozambique",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "MM",
@@ -1206,7 +1356,8 @@ const allData = [
       "long": 95.956223,
       "countryName": "Myanmar [Burma]",
       "frequency": "AS923_1",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "NA",
@@ -1214,7 +1365,8 @@ const allData = [
       "long": 18.49041,
       "countryName": "Namibia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "NR",
@@ -1222,7 +1374,8 @@ const allData = [
       "long": 166.931503,
       "countryName": "Nauru",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "NP",
@@ -1230,7 +1383,8 @@ const allData = [
       "long": 84.124008,
       "countryName": "Nepal",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "NL",
@@ -1238,7 +1392,8 @@ const allData = [
       "long": 5.291266,
       "countryName": "Netherlands",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "AN",
@@ -1246,7 +1401,8 @@ const allData = [
       "long": -69.060087,
       "countryName": "Netherlands Antilles",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "NC",
@@ -1254,7 +1410,8 @@ const allData = [
       "long": 165.618042,
       "countryName": "New Caledonia",
       "frequency": "EU868",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "NZ",
@@ -1262,7 +1419,8 @@ const allData = [
       "long": 174.885971,
       "countryName": "New Zealand",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "NI",
@@ -1270,7 +1428,8 @@ const allData = [
       "long": -85.207229,
       "countryName": "Nicaragua",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "NE",
@@ -1278,7 +1437,8 @@ const allData = [
       "long": 8.081666,
       "countryName": "Niger",
       "frequency": "IN865",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "NG",
@@ -1286,7 +1446,8 @@ const allData = [
       "long": 8.675277,
       "countryName": "Nigeria",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "NU",
@@ -1294,7 +1455,8 @@ const allData = [
       "long": -169.867233,
       "countryName": "Niue",
       "frequency": "AU915",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "NF",
@@ -1302,7 +1464,8 @@ const allData = [
       "long": 167.954712,
       "countryName": "Norfolk Island",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "KP",
@@ -1310,7 +1473,8 @@ const allData = [
       "long": 127.510093,
       "countryName": "North Korea",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "MP",
@@ -1318,7 +1482,8 @@ const allData = [
       "long": 145.38469,
       "countryName": "Northern Mariana Islands",
       "frequency": "US915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "NO",
@@ -1326,7 +1491,8 @@ const allData = [
       "long": 8.468946,
       "countryName": "Norway",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "OM",
@@ -1334,7 +1500,8 @@ const allData = [
       "long": 55.923255,
       "countryName": "Oman",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "PK",
@@ -1342,7 +1509,8 @@ const allData = [
       "long": 69.345116,
       "countryName": "Pakistan",
       "frequency": "IN865",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "PW",
@@ -1350,7 +1518,8 @@ const allData = [
       "long": 134.58252,
       "countryName": "Palau",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "PS",
@@ -1358,7 +1527,8 @@ const allData = [
       "long": 35.233154,
       "countryName": "Palestinian Territories",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "PA",
@@ -1366,7 +1536,8 @@ const allData = [
       "long": -80.782127,
       "countryName": "Panama",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "PG",
@@ -1374,7 +1545,8 @@ const allData = [
       "long": 143.95555,
       "countryName": "Papua New Guinea",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "PY",
@@ -1382,7 +1554,8 @@ const allData = [
       "long": -58.443832,
       "countryName": "Paraguay",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "PE",
@@ -1390,7 +1563,8 @@ const allData = [
       "long": -75.015152,
       "countryName": "Peru",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "PH",
@@ -1398,7 +1572,8 @@ const allData = [
       "long": 121.774017,
       "countryName": "Philippines",
       "frequency": "AS923_3",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "PN",
@@ -1406,7 +1581,8 @@ const allData = [
       "long": -127.439308,
       "countryName": "Pitcairn Islands",
       "frequency": "",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 0
     },
     {
       "countryCode": "PL",
@@ -1414,7 +1590,8 @@ const allData = [
       "long": 19.145136,
       "countryName": "Poland",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "PT",
@@ -1422,7 +1599,8 @@ const allData = [
       "long": -8.224454,
       "countryName": "Portugal",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "PR",
@@ -1430,7 +1608,8 @@ const allData = [
       "long": -66.590149,
       "countryName": "Puerto Rico",
       "frequency": "US915",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "QA",
@@ -1438,7 +1617,8 @@ const allData = [
       "long": 51.183884,
       "countryName": "Qatar",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "RE",
@@ -1446,7 +1626,8 @@ const allData = [
       "long": 55.536384,
       "countryName": "Réunion",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "RO",
@@ -1454,7 +1635,8 @@ const allData = [
       "long": 24.96676,
       "countryName": "Romania",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "RU",
@@ -1462,7 +1644,8 @@ const allData = [
       "long": 105.318756,
       "countryName": "Russia",
       "frequency": "RU864",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "RW",
@@ -1470,7 +1653,8 @@ const allData = [
       "long": 29.873888,
       "countryName": "Rwanda",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SH",
@@ -1478,7 +1662,8 @@ const allData = [
       "long": -10.030696,
       "countryName": "Saint Helena",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "KN",
@@ -1486,7 +1671,8 @@ const allData = [
       "long": -62.782998,
       "countryName": "Saint Kitts and Nevis",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "LC",
@@ -1494,7 +1680,8 @@ const allData = [
       "long": -60.978893,
       "countryName": "Saint Lucia",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "PM",
@@ -1502,7 +1689,8 @@ const allData = [
       "long": -56.27111,
       "countryName": "Saint Pierre and Miquelon",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "VC",
@@ -1510,7 +1698,8 @@ const allData = [
       "long": -61.287228,
       "countryName": "Saint Vincent and the Grenadines",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "WS",
@@ -1518,7 +1707,8 @@ const allData = [
       "long": -172.104629,
       "countryName": "Samoa",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "SM",
@@ -1526,7 +1716,8 @@ const allData = [
       "long": 12.457777,
       "countryName": "San Marino",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "ST",
@@ -1534,7 +1725,8 @@ const allData = [
       "long": 6.613081,
       "countryName": "São Tomé and Príncipe",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "SA",
@@ -1542,7 +1734,8 @@ const allData = [
       "long": 45.079162,
       "countryName": "Saudi Arabia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SN",
@@ -1550,7 +1743,8 @@ const allData = [
       "long": -14.452362,
       "countryName": "Senegal",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "RS",
@@ -1558,7 +1752,8 @@ const allData = [
       "long": 21.005859,
       "countryName": "Serbia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SC",
@@ -1566,7 +1761,8 @@ const allData = [
       "long": 55.491977,
       "countryName": "Seychelles",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "SL",
@@ -1574,7 +1770,8 @@ const allData = [
       "long": -11.779889,
       "countryName": "Sierra Leone",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "SG",
@@ -1582,7 +1779,8 @@ const allData = [
       "long": 103.819836,
       "countryName": "Singapore",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "SK",
@@ -1590,7 +1788,8 @@ const allData = [
       "long": 19.699024,
       "countryName": "Slovakia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SI",
@@ -1598,7 +1797,8 @@ const allData = [
       "long": 14.995463,
       "countryName": "Slovenia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SB",
@@ -1606,7 +1806,8 @@ const allData = [
       "long": 160.156194,
       "countryName": "Solomon Islands",
       "frequency": "AS923_1",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SO",
@@ -1614,7 +1815,8 @@ const allData = [
       "long": 46.199616,
       "countryName": "Somalia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "ZA",
@@ -1622,7 +1824,8 @@ const allData = [
       "long": 22.937506,
       "countryName": "South Africa",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GS",
@@ -1630,7 +1833,8 @@ const allData = [
       "long": -36.587909,
       "countryName": "South Georgia and the South Sandwich Islands",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "KR",
@@ -1638,7 +1842,8 @@ const allData = [
       "long": 127.766922,
       "countryName": "South Korea",
       "frequency": "KR920",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "ES",
@@ -1646,7 +1851,8 @@ const allData = [
       "long": -3.74922,
       "countryName": "Spain",
       "frequency": "EU868",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "LK",
@@ -1654,7 +1860,8 @@ const allData = [
       "long": 80.771797,
       "countryName": "Sri Lanka",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "SD",
@@ -1662,7 +1869,8 @@ const allData = [
       "long": 30.217636,
       "countryName": "Sudan",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "SR",
@@ -1670,7 +1878,8 @@ const allData = [
       "long": -56.027783,
       "countryName": "Suriname",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "SJ",
@@ -1678,7 +1887,8 @@ const allData = [
       "long": 23.670272,
       "countryName": "Svalbard and Jan Mayen",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SE",
@@ -1686,7 +1896,8 @@ const allData = [
       "long": 18.643501,
       "countryName": "Sweden",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "CH",
@@ -1694,7 +1905,8 @@ const allData = [
       "long": 8.227512,
       "countryName": "Switzerland",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "SY",
@@ -1702,7 +1914,8 @@ const allData = [
       "long": 38.996815,
       "countryName": "Syria",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "TW",
@@ -1710,7 +1923,8 @@ const allData = [
       "long": 120.960515,
       "countryName": "Taiwan",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "TJ",
@@ -1718,7 +1932,8 @@ const allData = [
       "long": 71.276093,
       "countryName": "Tajikistan",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "TZ",
@@ -1726,7 +1941,8 @@ const allData = [
       "long": 34.888822,
       "countryName": "Tanzania",
       "frequency": "AS923_1",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "TH",
@@ -1734,7 +1950,8 @@ const allData = [
       "long": 100.992541,
       "countryName": "Thailand",
       "frequency": "AS923_1",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "TL",
@@ -1742,7 +1959,8 @@ const allData = [
       "long": 125.727539,
       "countryName": "Timor-Leste",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "TG",
@@ -1750,7 +1968,8 @@ const allData = [
       "long": 0.824782,
       "countryName": "Togo",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "TK",
@@ -1758,7 +1977,8 @@ const allData = [
       "long": -171.855881,
       "countryName": "Tokelau",
       "frequency": "AU915",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "TO",
@@ -1766,7 +1986,8 @@ const allData = [
       "long": -175.198242,
       "countryName": "Tonga",
       "frequency": "AU915",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "TT",
@@ -1774,7 +1995,8 @@ const allData = [
       "long": -61.222503,
       "countryName": "Trinidad and Tobago",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "TN",
@@ -1782,7 +2004,8 @@ const allData = [
       "long": 9.537499,
       "countryName": "Tunisia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "TR",
@@ -1790,7 +2013,8 @@ const allData = [
       "long": 35.243322,
       "countryName": "Turkey",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "TM",
@@ -1798,7 +2022,8 @@ const allData = [
       "long": 59.556278,
       "countryName": "Turkmenistan",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "TC",
@@ -1806,7 +2031,8 @@ const allData = [
       "long": -71.797928,
       "countryName": "Turks and Caicos Islands",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "TV",
@@ -1814,7 +2040,8 @@ const allData = [
       "long": 177.64933,
       "countryName": "Tuvalu",
       "frequency": "",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 0
     },
     {
       "countryCode": "UM",
@@ -1822,7 +2049,8 @@ const allData = [
       "long": "",
       "countryName": "U.S. Minor Outlying Islands",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "VI",
@@ -1830,7 +2058,8 @@ const allData = [
       "long": -64.896335,
       "countryName": "U.S. Virgin Islands",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "UG",
@@ -1838,7 +2067,8 @@ const allData = [
       "long": 32.290275,
       "countryName": "Uganda",
       "frequency": "IN865",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "UA",
@@ -1846,7 +2076,8 @@ const allData = [
       "long": 31.16558,
       "countryName": "Ukraine",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "AE",
@@ -1854,7 +2085,8 @@ const allData = [
       "long": 53.847818,
       "countryName": "United Arab Emirates",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "GB",
@@ -1862,7 +2094,8 @@ const allData = [
       "long": -3.435973,
       "countryName": "United Kingdom",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "US",
@@ -1870,7 +2103,8 @@ const allData = [
       "long": -95.712891,
       "countryName": "United States",
       "frequency": "US915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "UY",
@@ -1878,7 +2112,8 @@ const allData = [
       "long": -55.765835,
       "countryName": "Uruguay",
       "frequency": "AU915",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "UZ",
@@ -1886,7 +2121,8 @@ const allData = [
       "long": 64.585262,
       "countryName": "Uzbekistan",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "VU",
@@ -1894,7 +2130,8 @@ const allData = [
       "long": 166.959158,
       "countryName": "Vanuatu",
       "frequency": "AS923_3",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "VA",
@@ -1902,7 +2139,8 @@ const allData = [
       "long": 12.453389,
       "countryName": "Vatican City",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "VE",
@@ -1910,7 +2148,8 @@ const allData = [
       "long": -66.58973,
       "countryName": "Venezuela",
       "frequency": "AS923_1",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "VN",
@@ -1918,7 +2157,8 @@ const allData = [
       "long": 108.277199,
       "countryName": "Vietnam",
       "frequency": "AS923_2",
-      "zone": "zone3"
+      "zone": "zone3",
+      "supported": 1
     },
     {
       "countryCode": "WF",
@@ -1926,7 +2166,8 @@ const allData = [
       "long": -177.156097,
       "countryName": "Wallis and Futuna",
       "frequency": "EU868",
-      "zone": "zone2"
+      "zone": "zone2",
+      "supported": 1
     },
     {
       "countryCode": "EH",
@@ -1934,7 +2175,8 @@ const allData = [
       "long": -12.885834,
       "countryName": "Western Sahara",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "YE",
@@ -1942,7 +2184,8 @@ const allData = [
       "long": 48.516388,
       "countryName": "Yemen",
       "frequency": "",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     },
     {
       "countryCode": "ZM",
@@ -1950,7 +2193,8 @@ const allData = [
       "long": 27.849332,
       "countryName": "Zambia",
       "frequency": "EU868",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 1
     },
     {
       "countryCode": "ZW",
@@ -1958,7 +2202,8 @@ const allData = [
       "long": 29.154857,
       "countryName": "Zimbabwe",
       "frequency": "EU433",
-      "zone": "zone1"
+      "zone": "zone1",
+      "supported": 0
     }
   ];
 
